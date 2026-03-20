@@ -5,3 +5,10 @@ body{
 h2 {
     color: orangered;
 }
+p{
+    font-weight: bold;
+}
+.text-center {
+    text-align: center;
+}
+
